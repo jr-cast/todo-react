@@ -1,2 +1,3 @@
-# react-template-1
-React project setup using create-react-app cli
+# To-do List Application: A React 
+
+React Tutorial From Scratch: A Step-by-Step Guide (2021)
